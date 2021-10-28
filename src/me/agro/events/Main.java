@@ -25,7 +25,7 @@ public class Main extends JavaPlugin {
 
 
     public void onEnable() {
-        System.out.println("Enabling uEvents v0.1");
+        System.out.println("Enablin uEvents v0.1");
         setInstance(this);
 
         commandManager = new CommandManager();

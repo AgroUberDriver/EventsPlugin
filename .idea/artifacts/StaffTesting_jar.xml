@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StaffTesting:jar">
+    <output-path>$USER_HOME$/Desktop/Development/Minecraft/Server/plugins</output-path>
+    <root id="archive" name="StaffTesting.jar">
+      <element id="module-output" name="StaffTesting" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-1.7.10-SNAPSHOT-b1657.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/paper-1.8.8-443.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

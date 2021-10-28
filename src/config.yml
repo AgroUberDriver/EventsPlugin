@@ -1,0 +1,23 @@
+MESSAGES:
+  PREFIX: "&6&lEvent&f&lMC &8&l\xbb"
+  EVENT-COUNTDOWN: '&6The &e%event% &6event will begin in &a%time%'
+  EVENT-OPEN: '&aThe %event% event has begun! Type /event join to compete!'
+  EVENT-OPEN-COUNTDOWN: '&6The &e%event% &6 will begin in &a%time%&6!'
+  JOIN-MESSAGE: '&e%player% &aHas Joined The Event! &7(&e%participants%/%maxplayers%&7)'
+  INVALID-SUBCOMMAND: '&cInvalid Sub Command. Type /event help for a full list of
+    commands'
+  INVALID-ARGUMENT: '&cInvalid Argument. Type /event help for a full list of commands'
+  EVENT-STOPPED: '&cThe event has been stopped by an operator!'
+  PLAYER-ELIMINATED: "&e%player% &6Has been eliminated. &a%participants% players remain."
+
+ARENAS:
+  SPLEEF:
+    SPAWN:
+      X: 107
+      Y: 155
+      Z: 166
+  LMS:
+    SPAWN:
+      X:
+      Y:
+      Z:

@@ -16,7 +16,6 @@ public class Main extends JavaPlugin {
 
     public boolean activeEvent = false;
     public boolean eventJoinable = false;
-    public String currentEvent = "";
     public ArrayList<Player> eventPlayers = new ArrayList<Player>();
 
     private static Main instance;
@@ -25,7 +24,7 @@ public class Main extends JavaPlugin {
 
 
     public void onEnable() {
-        System.out.println("Enablin uEvents v0.1");
+        System.out.println("Enabled uEvents v0.1");
         setInstance(this);
 
         commandManager = new CommandManager();

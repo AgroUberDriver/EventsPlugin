@@ -6,4 +6,4 @@ main: me.agro.events.Main
 commands:
   event:
     usage: /<command>
-    description: Run eco commands
+    description: Run eco command
